@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I make stuff for the internet. Doesn't mean it has to be good. 
 <!--
 **skyQuiz/skyquiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
